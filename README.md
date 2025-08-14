@@ -18,6 +18,10 @@
 **🧰 Tools & Platforms:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔧 Git / 🐱 GitHub &nbsp;&nbsp;|&nbsp;&nbsp; 🧪 Postman &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ VS Code
 
+**🌐 Deployment & Hosting:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📦 VPS Hosting (Linux) &nbsp;&nbsp;|&nbsp;&nbsp; ⚙️ PM2  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 Nginx / Reverse Proxy &nbsp;&nbsp;|&nbsp;&nbsp; 🔐 SSL Setup
+
 <!--
 **dev-dheerajthakur/dev-dheerajthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
