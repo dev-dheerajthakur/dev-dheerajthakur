@@ -1,4 +1,5 @@
 # 🔥 Full Stack Developer @edgeofesports
+---
 
 **🚀 Frontend:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🟨 JavaScript (ES6+) &nbsp;&nbsp;|&nbsp;&nbsp; 🔷 TypeScript  
