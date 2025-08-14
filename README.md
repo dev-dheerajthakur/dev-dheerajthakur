@@ -1,6 +1,4 @@
 # 🔥 Full Stack Developer @edgeofesports
-### 🔥 Full Stack Developer @edgeofesports
-
 ---
 
 **🚀 Frontend:**  
