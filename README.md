@@ -1,4 +1,4 @@
-# 🔥 Full Stack Developer @edgeofesports
+<h1>🔥 Full Stack Developer @edgeofesports</h1>
 ---
 
 **🚀 Frontend:**  
