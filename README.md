@@ -1,5 +1,9 @@
-## Hi there 👋
+🔥 Full Stack Developer @edgeofesports
 
+🚀 Frontend: ⚛️ React.js   |   🧭 Next.js
+🔧 Backend: 🚂 Express.js   |   🧭 Nest.js
+💾 Database:🍃 MongoDB
+📡 Others:📬 REST API   |   💬 Socket.io  |  🔧 Git   |   🐱 GitHub
 <!--
 **dev-dheerajthakur/dev-dheerajthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
