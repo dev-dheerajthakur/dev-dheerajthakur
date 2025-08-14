@@ -1,12 +1,26 @@
 # 🔥 Full Stack Developer @edgeofesports
+### 🔥 Full Stack Developer @edgeofesports
 
-**🚀 Frontend:** ⚛️ React.js   |   🧭 Next.js
+---
 
-**🔧 Backend:** 🚂 Express.js   |   🧭 Nest.js
+**🚀 Frontend:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🟨 JavaScript (ES6+) &nbsp;&nbsp;|&nbsp;&nbsp; 🔷 TypeScript  
+&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React.js &nbsp;&nbsp;|&nbsp;&nbsp; 🧭 Next.js &nbsp;&nbsp;|&nbsp;&nbsp; 📱 Expo (React Native)  
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 Responsive UI/UX Principles
 
-**💾 Database:** 🍃 MongoDB
+**🛠️ Backend:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🌐 Node.js &nbsp;&nbsp;|&nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp;|&nbsp;&nbsp; 🧭 NestJS
 
-**📡 Others:** 📬 REST API   |   💬 Socket.io  |  🔧 Git   |   🐱 GitHub
+**💾 Database:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🍃 MongoDB &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 Mongoose
+
+**📡 Real-Time & APIs:**  
+&nbsp;&nbsp;&nbsp;&nbsp;💬 Socket.io &nbsp;&nbsp;|&nbsp;&nbsp; 📬 REST API  
+&nbsp;&nbsp;&nbsp;&nbsp;💸 Razorpay & UPI Payment Gateway APIs
+
+**🧰 Tools & Platforms:**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔧 Git / 🐱 GitHub &nbsp;&nbsp;|&nbsp;&nbsp; 🧪 Postman &nbsp;&nbsp;|&nbsp;&nbsp; 🖥️ VS Code
+
 <!--
 **dev-dheerajthakur/dev-dheerajthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
