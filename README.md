@@ -1,9 +1,9 @@
 # 🔥 Full Stack Developer @edgeofesports
 
 **🚀 Frontend:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟨 JavaScript (ES6+) &nbsp;&nbsp;|&nbsp;&nbsp; 🔷 TypeScript  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React.js &nbsp;&nbsp;|&nbsp;&nbsp; 🧭 Next.js &nbsp;&nbsp;|&nbsp;&nbsp; 📱 Expo (React Native)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 Responsive UI/UX Principles
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟨 JavaScript (ES6+) &nbsp;&nbsp;|&nbsp;&nbsp; 🔷 TypeScript  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚛️ React.js &nbsp;&nbsp;|&nbsp;&nbsp; 🧭 Next.js &nbsp;&nbsp;|&nbsp;&nbsp; 📱 Expo (React Native)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 Responsive UI/UX Principles
 
 **🛠️ Backend:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 Node.js &nbsp;&nbsp;|&nbsp;&nbsp; 🚂 Express.js &nbsp;&nbsp;|&nbsp;&nbsp; 🧭 NestJS
